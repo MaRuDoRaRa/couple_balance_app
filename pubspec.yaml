@@ -34,6 +34,30 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+  
+  # Supabase
+  supabase_flutter: ^2.8.0
+  
+  # State management
+  provider: ^6.1.2
+  
+  # File picker for CSV import
+  file_picker: ^8.0.0+1
+  
+  # CSV parsing
+  csv: ^5.1.1
+  
+  # Date formatting
+  intl: ^0.19.0
+  
+  # Image picker for user icons
+  image_picker: ^1.1.2
+  
+  # HTTP requests
+  http: ^1.2.1
+  
+  # Shared preferences for local storage
+  shared_preferences: ^2.2.3
 
 dev_dependencies:
   flutter_test:
